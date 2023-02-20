@@ -1,2 +1,8 @@
-# katykozee.github.io
-Test site using GitHub Pages
+# Example Project to get started with APIs
+
+If you're a beginner developer, you may have heard of APIs, but you may want some clarification on what they are and how to use them. This example project showcases how an API can be embedded into a simple website to represent retrieved information. This website displays jokes from the [Chuck Norris Facts API](https://api.chucknorris.io/). 
+
+[View Demo](https://docs.ionos.space/blog/)
+[Read "A Beginner Developer's Guide to APIs"](https://docs.ionos.space/blog/api-guide)
+
+[![Deploy to IONOS](https://images.ionos.space/deploy-now-icons/deploy-to-ionos-btn.svg)](https://github.com/ionos-deploy-now/API-example-project)
