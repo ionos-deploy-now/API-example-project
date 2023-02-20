@@ -4,4 +4,4 @@ If you're a beginner developer, you may have heard of APIs, but you may want som
 
 We've created an article that explains the concept of APIs in detail and explains how this example project works.[Read "A Beginner Developer's Guide to APIs"](https://docs.ionos.space/blog/api-guide). 
 
-[![Deploy to IONOS](https://images.ionos.space/deploy-now-icons/deploy-to-ionos-btn.svg)](https://github.com/ionos-deploy-now/API-example-project)
+[![Deploy to IONOS](https://images.ionos.space/deploy-now-icons/deploy-to-ionos-btn.svg)](https://ionos.space/setup?repo=https://github.com/ionos-deploy-now/API-example-project)
